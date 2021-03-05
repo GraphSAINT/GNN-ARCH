@@ -6,7 +6,7 @@ Application-specific Systems, Architectures and Processors. [[PDF](https://asap2
 
 ## Software platform: 
 - Quartus Prime Pro 20.2
-- 
+- Modelsim
 
 
 ### IP configuration
