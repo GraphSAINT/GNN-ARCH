@@ -1,4 +1,5 @@
 # GCN-ARCH
+
 This is the architecture that appears in the paper:
 - Bingyi Zhang, Hanqing Zeng and Viktor Prasanna, **Hardware Acceleration of Large Scale GCN Inference**, The 31st IEEE International Conference on
 Application-specific Systems, Architectures and Processors. [[PDF](https://asap2020.cs.manchester.ac.uk/paper.php?id=38)]
