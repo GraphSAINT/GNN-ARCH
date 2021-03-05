@@ -1,4 +1,4 @@
-# GCN-arch-intel
+# GCN-ARCH
 
 software: Quartus Prime Pro 20.2
 
